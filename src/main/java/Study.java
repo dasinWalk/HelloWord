@@ -7,7 +7,7 @@ import java.util.Map;
 public class Study {
     public static void main(String args[]){
         System.out.println(1);
-        int temp1 = 50;
+        int temp1 = 500;
         int temp2 = 100;
         int temp3 = addNum(temp1,temp2);
         System.out.println("====="+temp3);
